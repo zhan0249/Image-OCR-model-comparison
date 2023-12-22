@@ -1,0 +1,3 @@
+- 3 model results were compared
+- Pytesseract, Keras OCR, and Easy OCR
+- Kaggle data was used in training the modesl
